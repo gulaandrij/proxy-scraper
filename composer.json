@@ -13,7 +13,7 @@
     "php": "^7.1",
     "php-http/client-implementation": "^1 || ^2",
     "php-http/message-factory": "^1.0.2",
-    "php-http/httplug": "^1.1",
+    "php-http/httplug": "^1.1 || ^2.0",
     "php-http/message": "^1.5",
     "symfony/dom-crawler": "^3.3 || ^4",
     "symfony/css-selector": "^3.3 || ^4"
